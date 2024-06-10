@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "itemName": "Tandoori Paneer Tikka",
+      "img": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili_2829-19992.jpg?t=st=1718006407~exp=1718010007~hmac=6148a52a4abb1cab7a9691bb5ccc0822a03003f97e6bb5f155f307503e45047f&w=996",
+      "category": "Vegetarian Starters",
+      "price": 70,
+      "description": "It's spicy, juicy, light and slightly smoky."
+    },
+    {
+      "id": 2,
+      "itemName": "Paneer Chilli",
+      "img": "https://img.freepik.com/free-photo/vertical-shot-traditional-indian-paneer-butter-masala-cheese-cottage-curry-black-surface_181624-32001.jpg?t=st=1718006546~exp=1718010146~hmac=61bb114c6701030b7e1a17775730bea592faabe004d28bc8f1d208b1eb7975f1&w=740",
+      "category": "Vegetarian Starters",
+      "price": 80,
+      "description": "crispy fried paneer cubes tossed in a delicious Chinese style sauce."
+    },
+    {
+      "id": 3,
+      "itemName": "Pahadi Paneer Tikka",
+      "img": "https://img.freepik.com/free-photo/bottom-view-raw-chicken-skewers-with-spices-wooden-board-dark-table-free-space_140725-148195.jpg?t=st=1718006632~exp=1718010232~hmac=887e36e48e52908429339588f4776b1ebb0e65bb0daedcd6a33d10d8d5992550&w=996",
+      "category": "Vegetarian Starters",
+      "price": 90,
+      "description": "Pahadi Paneer Tikka is a wonderful tikka with an enticing flavour and the green chillies, mint and coriander ensure a well-balanced taste."
+    },
+    {
+      "id": 4,
+      "itemName": "Paneer Do Pyaaza",
+      "img": "https://img.freepik.com/free-photo/pre-prepared-food-showcasing-ready-eat-delicious-meals-go_23-2151246089.jpg?t=st=1718006701~exp=1718010301~hmac=98b7bdfbec63e461e90f12246480bc606be5da3ae22d28052073f47774ade63b&w=740",
+      "category": "Vegetarian Main Course",
+      "price": 170,
+      "description": "Paneer do pyaza is a rich, creamy curry of soft succulent paneer and plenty of onions in a wonderful medley of spices, herbs and tomatoes."
+    },
+    {
+      "id": 5,
+      "itemName": "Paneer Butter Masala",
+      "img": "https://as2.ftcdn.net/v2/jpg/07/89/10/97/1000_F_789109764_WGRNWL6xZUevgb8Z6XSNHwUAALbKeEIO.jpg",
+      "category": "Vegetarian Main Course",
+      "price": 200,
+      "description": "Soft paneer dunked in a creamy, silky, super flavorful and delicious curry."
+    },
+    {
+      "id": 6,
+      "itemName": "Butter Naan",
+      "img": "https://as2.ftcdn.net/v2/jpg/07/18/16/87/1000_F_718168709_mc2zfZw46fQxI81ifoYBEWhJwpsL5iPY.jpg",
+      "category": "Vegetarian Main Course",
+      "price": 50,
+      "description": "topped with melted butter is a delicious Indian bread."
+    },
+    {
+      "id": 7,
+      "itemName": "Butter Tawa Roti",
+      "img": "https://as1.ftcdn.net/v2/jpg/06/10/17/50/1000_F_610175045_ioUAdPSLvWvrKFjJoF3W5dLvuU7oSuxu.jpg",
+      "category": "Vegetarian Main Course",
+      "price": 60,
+      "description": "delicious and soft"
+    },
+    {
+      "id": 8,
+      "itemName": "Kaju Pulao",
+      "img": "https://as1.ftcdn.net/v2/jpg/06/16/41/60/1000_F_616416073_YVpPiGJ6RpYyGkMMUUglmdwGXdYrPlwM.jpg",
+      "category": "Vegetarian Main Course",
+      "price": 170,
+      "description": "Kaju Pulao is the  flavorful pulaos that you can ever think of."
+    },
+    {
+      "id": 9,
+      "itemName": "Palak Paneer",
+      "img": "https://img.freepik.com/free-photo/flat-lay-pakistani-food-arrangement_23-2148825110.jpg?t=st=1718007111~exp=1718010711~hmac=1a2a2fbfdef87281ecbb88eb4eea695410dc24d80b7d4cf939018fbb67bc5b14&w=996",
+      "category": "Vegetarian Main Course",
+      "price": 180,
+      "description": "Delicious and healthy!."
+    },
+    {
+      "id": 10,
+      "itemName": "Kadai Paneer",
+      "img": "https://as2.ftcdn.net/v2/jpg/07/08/98/21/1000_F_708982159_zIYsj3SJLfVlvqBK4IkGNFXKZ8wSO3Kl.jpg",
+      "category": "Vegetarian Main Course",
+      "price": 200,
+      "description": "Kadai Paneer is a popular paneer recipe where paneer and bell peppers are cooked in a spicy masala."
+    },
+    {
+      "id": 11,
+      "itemName": "Chicken Lollipop",
+      "img": "https://as2.ftcdn.net/v2/jpg/07/85/58/73/1000_F_785587309_0hH6kwwGZgt7QFVuOtF033USYcEoYOgK.jpg",
+      "category": "Non-Vegetarian Starters",
+      "price": 250,
+      "description": "Lollipop chicken makes a great party appetiser."
+    },
+    {
+      "id": 12,
+      "itemName": "Chilli Chicken",
+      "img": "https://img.freepik.com/premium-photo/bowl-food-with-fork-spoon-table_761066-86940.jpg?w=740",
+      "category": "Non-Vegetarian Starters",
+      "price": 210,
+      "description": "Chilli Chicken is one of the most famous recipes from Indian Chinese Cuisine."
+    },
+    {
+      "id": 13,
+      "itemName": "Spicy Chicken Fry",
+      "img": "https://img.freepik.com/premium-photo/delicious-fried-chicken-with-chili-sauce-vegetables_995281-13110.jpg?w=740",
+      "category": "Non-Vegetarian Starters",
+      "price": 180,
+      "description": "Crunchy and juicy."
+    },
+    {
+      "id": 14,
+      "itemName": "Tandoori Chicken",
+      "img": "https://as2.ftcdn.net/v2/jpg/05/85/51/35/1000_F_585513545_Opea2iOSwgktZQvof84WqjTbld3TUQBK.jpg",
+      "category": "Non-Vegetarian Starters",
+      "price": 200,
+      "description": "Spicy and flavorful, with a slightly smoky taste."
+    },
+    {
+      "id": 15,
+      "itemName": "Chicken Fried Rice",
+      "img": "https://as1.ftcdn.net/v2/jpg/01/75/05/12/1000_F_175051234_1gkSIDdNXpgoIA6t2Tg22hurOZ8tpUxh.jpg",
+      "category": "Non-Vegetarian Main Course",
+      "price": 150,
+      "description": "Delicious fried rice made with tender chunks of chicken."
+    },
+    {
+      "id": 16,
+      "itemName": "Egg Fried Rice",
+      "img": "https://img.freepik.com/premium-photo/photo-white-rice-vegetable-rice-frieds-rice-with-curry-isolated-white-background_763111-121375.jpg?w=740",
+      "category": "Non-Vegetarian Main Course",
+      "price": 120,
+      "description": "Delicious fried rice made with tender chunks of chicken."
+    },
+    {
+      "id": 17,
+      "itemName": "Hyderabadi Chicken Biryani",
+      "img": "https://img.freepik.com/premium-photo/traditional-clay-pot-filled-with-spicy-meat-biryani-marriage-spices-tenderness-meat_1049419-761.jpg?w=996",
+      "category": "Non-Vegetarian Main Course",
+      "price": 180,
+      "description": "Long-grained rice seasoned with aromatic spices like saffron and stacked with tender and juicy chicken in a rich sauce."
+    },
+    {
+      "id": 18,
+      "itemName": "Mutton Handi",
+      "img": "https://img.freepik.com/free-photo/delicious-goulash-stew-table_23-2149371732.jpg?t=st=1718007665~exp=1718011265~hmac=1e62b5785bd13e15a85c14946ffef05005ea797bd5cc4bdd714e7496d6828677&w=740",
+      "category": "Non-Vegetarian Main Course",
+      "price": 250,
+      "description": "Mutton Handi is a very traditional rich stew with lots of spicy and a velvety rich masala gravy."
+    },
+    {
+      "id": 20,
+      "itemName": "Black Cola Mojito",
+      "img": "https://img.freepik.com/free-photo/fresh-cola-drink-with-green-lime_144627-12395.jpg?t=st=1718007738~exp=1718011338~hmac=8de404d2672aa952e0a0de77d273693e5f1e9cb64ac38e2da684462ba542c91a&w=996",
+      "category": "Beverage",
+      "price": 90,
+      "description": "With warm spiced notes from Coca-Cola and dark rum and brightness from the lime and mint, this black mojito is a spin on a classic."
+    },
+    {
+      "id": 21,
+      "itemName": "Green Apple Mojito",
+      "img": "https://img.freepik.com/free-photo/front-view-fresh-feijoa-juice-inside-can-with-green-apples-dark-bar-fruit-color-photo-cocktail_140725-92860.jpg?t=st=1718007795~exp=1718011395~hmac=70b075720ebd6a0f878915e362466270276f6a0d8542fe4ad8ae030c7d70c3b9&w=740",
+      "category": "Beverage",
+      "price": 100,
+      "description": "Make a healthy choice and try out this super easy recipe!."
+    },
+    {
+      "id": 22,
+      "itemName": "Mint Mojito",
+      "img": "https://img.freepik.com/free-photo/cocktail-with-ice-cubes-leaves_140725-162.jpg?t=st=1718007865~exp=1718011465~hmac=57eb9b7eae158ba78aa2184e3c363973121be6b152ff56ead2d0fc399dfbd072&w=740",
+      "category": "Beverage",
+      "price": 70,
+      "description": "A simple drink to make that looks impressive and great for spring and summer entertaining."
+    }
+  ]
+}
