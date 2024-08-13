@@ -3,14 +3,7 @@ const app = express();
 const port = 3005;
 const data = require("./api.json");
 const cors = require("cors");
-app.use(
-  cors({
-    origin: [
-      "http://localhost:3000", // For local development
-      "https://jocular-fdapp-ss-3e82f9.netlify.app/", // For deployed frontend
-    ],
-  })
-);
+app.use(cors({ origin: "*" }));
 
 app.get("/api/foodItems", (req, res) => res.send(data));
 app.listen(port, () => console.log(`listening on port ${port}!`));
