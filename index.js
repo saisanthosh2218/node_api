@@ -7,7 +7,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000", // Local development
-      "https://jocular-fdapp-ss-3e82f9.netlify.app/Food_Products", // Deployed frontend
+      "https://food-delivery-gssk-2218.netlify.app//Food_Products", // Deployed frontend
     ],
   })
 );
